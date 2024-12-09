@@ -17,20 +17,36 @@ $ rake db:create
 $ rake db:migrate
 $ rails server
 ```
-
 In your browser visit localhost:3000
 
-Motivation
---------
-> **To Practice:**
->- Ruby On Rails project setup
->- User authentication
->- Paperclip gem for uploading files
->- SASS 
->- Unit testing with RSPEC
->- Integration testing with CAPYBARA
+
+Features That We Added
+-------
+> Add title to a photo when you upload it
+ 
+> Follow-Unfollow System
+
+> Allow users to add comments to photos
+
+> Allow users to delete comments
+
+> Add next to each foto a button that allows the user who uploaded the photo to delete it along with the photo with all comments and tags
+
+Demo
+------
+
+
+
+
+
+
+
 
 Authors
 ------
 
 Kathryn Carr, J Sivakumaran, and Lizzie Koehler
+
+
+
+
