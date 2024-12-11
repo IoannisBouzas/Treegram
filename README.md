@@ -22,15 +22,15 @@ In your browser visit localhost:3000
 
 Features That We Added
 -------
-> Add title to a photo when you upload it
+* Add title to a photo when you upload it
  
-> Follow-Unfollow System
+* Follow-Unfollow System
 
-> Allow users to add comments to photos
+* Allow users to add comments to photos
 
-> Allow users to delete comments
+* Allow users to delete comments
 
-> Add next to each foto a button that allows the user who uploaded the photo to delete it along with the photo with all comments and tags
+* Add next to each foto a button that allows the user who uploaded the photo to delete it along with the photo with all comments and tags
 
 Demo
 ------
